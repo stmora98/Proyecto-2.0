@@ -227,13 +227,6 @@ Expected: Agregación de Score_Promedio por segmento_score
 ```
 
 ## 4. Crear Dashboard en Power BI
-=======
-# **Reto 3 – Modelo semántico, Data Agent y Dashboard de valor (Gold) 💎📊**
-
-## **Guía paso a paso para la creación de soluciones en Power BI ⚙️**
-
-### **Objetivo 🎯**
-Crear un **modelo semántico**, un **Data Agent** y un **dashboard** sencillo en **Power BI**.
 
 ### 4.1 Diseño de páginas
 1. **Overview Financiero**
@@ -304,16 +297,6 @@ graph TD
 - [Docs: Semantic Models in Fabric](https://learn.microsoft.com/fabric/data-warehouse/semantic-models)
 - [Power BI DAX Reference](https://learn.microsoft.com/dax/)
 =======
-## **Narrativa contextual y pasos sugeridos 🧭**
-
-### **Contexto 🏢**
-Contoso quiere habilitar análisis de negocio sobre datos confiables.  
-Tu equipo debe construir un **modelo semántico**, crear un **Data Agent** y diseñar un **dashboard** simple pero útil.
-
-### **Objetivo del reto 🎯**
-Diseñar el modelo semántico en **Gold**, crear un **Data Agent** conectado a ese modelo y construir un **dashboard** que entregue **valor al negocio**.
-
----
 
 ## **Fuentes de referencia 📚**
 - [Modelos semánticos de Power BI - Microsoft Fabric | Microsoft Learn](https://learn.microsoft.com/power-bi/)
@@ -338,9 +321,6 @@ Diseñar el modelo semántico en **Gold**, crear un **Data Agent** conectado a e
    - **Tendencias semanales o mensuales**.  
 7. **Publicar el dashboard** en el workspace.  
 
----
-
-## **Reto 3 – Industria Retail (Set: score_productos_gold) 🛍️**
 
 ### **1️⃣ En Power BI, crea un modelo semántico**
 Incluir las dimensiones siguientes:
